@@ -1,0 +1,36 @@
+<HTML>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collegamento a WhatsApp</title>
+    <style>
+        /* Stile per il pulsante */
+        .whatsapp-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #25D366;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .whatsapp-button:hover {
+            background-color: #1DA851;
+        }
+    </style>
+
+</head>
+<body>
+        <a 
+       href="https://wa.me/39[3314675273]?text=Ciao%2C+vorrei+informazioni+sui+vostri+prodotti." 
+       class="whatsapp-button"
+       target="_blank">
+        Contattaci su WhatsApp
+    </a>
+</body>
+</HTML>
